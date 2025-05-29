@@ -88,5 +88,5 @@ python onboard.py
 - Integrate with a secrets-management service  
 
 ## Contact  
-- LinkedIn: https://linkedin.com/in/YourProfile  
-- GitHub:   https://github.com/YourUsername  
+- LinkedIn: https://linkedin.com/in/ahmadsafzal  
+- GitHub:   https://github.com/aafzal80  
