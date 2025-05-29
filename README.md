@@ -1,7 +1,7 @@
 # Azure IAM Onboard 🚀  
 ![Python](https://img.shields.io/badge/python-3.10-blue)
 
-## One-line Overview  
+## Overview  
 Automates bulk user onboarding in Azure AD with Microsoft Graph API, MSAL, and Python.
 
 ## Motivation  
